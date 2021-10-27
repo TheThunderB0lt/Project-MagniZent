@@ -1,3 +1,3 @@
 # Final Year Deep Learning Project Repository
 
-## Deepfake Creation and Detection using Cycle GANs
+## Created a user-friendly web-based platform that allows users to upload videos and classify them as fake or real,as well as create their deepfake image or video using ANN
